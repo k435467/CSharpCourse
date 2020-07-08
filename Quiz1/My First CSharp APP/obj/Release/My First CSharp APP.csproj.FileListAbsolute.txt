@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\My First CSharp APP\My First CSharp APP\bin\Release\師大機電系.exe.config
+C:\Users\User\Downloads\My First CSharp APP\My First CSharp APP\bin\Release\師大機電系.exe
+C:\Users\User\Downloads\My First CSharp APP\My First CSharp APP\bin\Release\師大機電系.pdb
+C:\Users\User\Downloads\My First CSharp APP\My First CSharp APP\obj\Release\My First CSharp APP.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\My First CSharp APP\My First CSharp APP\obj\Release\師大機電系.exe
+C:\Users\User\Downloads\My First CSharp APP\My First CSharp APP\obj\Release\師大機電系.pdb

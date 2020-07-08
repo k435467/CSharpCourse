@@ -1,0 +1,39 @@
+D:\物件導向與程式設計\Final_Project\OOPProject\OOPProject\bin\Debug\OOPProject.exe.config
+D:\物件導向與程式設計\Final_Project\OOPProject\OOPProject\bin\Debug\OOPProject.exe
+D:\物件導向與程式設計\Final_Project\OOPProject\OOPProject\bin\Debug\OOPProject.pdb
+D:\物件導向與程式設計\Final_Project\OOPProject\OOPProject\obj\Debug\OOPProject.csprojAssemblyReference.cache
+D:\物件導向與程式設計\Final_Project\OOPProject\OOPProject\obj\Debug\OOPProject.Form1.resources
+D:\物件導向與程式設計\Final_Project\OOPProject\OOPProject\obj\Debug\OOPProject.Properties.Resources.resources
+D:\物件導向與程式設計\Final_Project\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.GenerateResource.cache
+D:\物件導向與程式設計\Final_Project\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.CoreCompileInputs.cache
+D:\物件導向與程式設計\Final_Project\OOPProject\OOPProject\obj\Debug\OOPProject.exe
+D:\物件導向與程式設計\Final_Project\OOPProject\OOPProject\obj\Debug\OOPProject.pdb
+C:\Users\陳惴棋\source\repos\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.exe
+C:\Users\陳惴棋\source\repos\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.pdb
+C:\Users\陳惴棋\source\repos\OOPProject\OOPProject\OOPProject\bin\Debug\OOPProject.exe.config
+C:\Users\陳惴棋\source\repos\OOPProject\OOPProject\OOPProject\bin\Debug\OOPProject.exe
+C:\Users\陳惴棋\source\repos\OOPProject\OOPProject\OOPProject\bin\Debug\OOPProject.pdb
+C:\Users\陳惴棋\source\repos\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.csprojAssemblyReference.cache
+C:\Users\陳惴棋\source\repos\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.Form1.resources
+C:\Users\陳惴棋\source\repos\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.Properties.Resources.resources
+C:\Users\陳惴棋\source\repos\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.GenerateResource.cache
+C:\Users\User\Downloads\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.csprojAssemblyReference.cache
+C:\Users\User\Downloads\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.Form1.resources
+C:\Users\User\Downloads\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.Properties.Resources.resources
+C:\Users\User\Downloads\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.GenerateResource.cache
+C:\Users\User\Downloads\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.exe
+C:\Users\User\Downloads\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.pdb
+C:\Users\User\Downloads\OOPProject\OOPProject\OOPProject\bin\Debug\OOPProject.exe.config
+C:\Users\User\Downloads\OOPProject\OOPProject\OOPProject\bin\Debug\OOPProject.exe
+C:\Users\User\Downloads\OOPProject\OOPProject\OOPProject\bin\Debug\OOPProject.pdb
+D:\School Files\物件導向程式設計\OOPProject\OOPProject\OOPProject\bin\Debug\OOPProject.exe.config
+D:\School Files\物件導向程式設計\OOPProject\OOPProject\OOPProject\bin\Debug\OOPProject.exe
+D:\School Files\物件導向程式設計\OOPProject\OOPProject\OOPProject\bin\Debug\OOPProject.pdb
+D:\School Files\物件導向程式設計\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.csprojAssemblyReference.cache
+D:\School Files\物件導向程式設計\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.Form1.resources
+D:\School Files\物件導向程式設計\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.Properties.Resources.resources
+D:\School Files\物件導向程式設計\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.GenerateResource.cache
+D:\School Files\物件導向程式設計\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.csproj.CoreCompileInputs.cache
+D:\School Files\物件導向程式設計\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.exe
+D:\School Files\物件導向程式設計\OOPProject\OOPProject\OOPProject\obj\Debug\OOPProject.pdb
